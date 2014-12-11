@@ -8,3 +8,5 @@ Alex will create basic parts for his own use and release them to the public. The
 Alex will create parts for the industry standard 15mm, 16mm (because 16mm is commonly used with CNC machines, therfore linear bearings and a lot of other cool stuff are readily avaialable for this size) and 19mm rod size, as well as "3/4" square rods" which can easily be DIY machined by a CNC machine (out of wood, to reduce costs.)
 
 Alex's design philosophy for his parts. Metal is expensive so we will use 3/4" plywood, which should have more than adequate strength. Wood dowels will be tested for strength and usability, as they are much cheaper than aluminum rod. 
+
+All hardwear in Alex's designs will be M5 and M8 (for larger parts that. You will only need an M5 and M8 allen wrench and a drill press (with a bit slightly over 5mm) to complete the parts.
