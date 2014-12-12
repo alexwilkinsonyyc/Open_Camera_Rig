@@ -9,4 +9,27 @@ Alex will create parts for the industry standard 15mm, 16mm (because 16mm is com
 
 Alex's design philosophy for his parts. Metal is expensive so we will use 3/4" plywood, which should have more than adequate strength. Wood dowels will be tested for strength and usability, as they are much cheaper than aluminum rod. 
 
-All hardwear in Alex's designs will be M5 and M8 (for larger parts that. You will only need an M5 and M8 allen wrench and a drill press (with a bit slightly over 5mm) to complete the parts.
+My design/prototyping plans over the next few months:
+
+-Various linkages for 15/16mm rails, and 19mm "square rails" (that can be easily cut out of a 3/4 inch/19.05 mm wood sheet on a CNC)
+-Teleprompter rig
+-Geared Follow Focus
+-Some slideable parts utilizing linear bearings (for example you've disassembled an anamorphic lens and want to mount and quickly slide the front lens to focus).
+-Tripods/mounts
+
+I will also have some design guidelines that I will personally follow:
+-Parts must be able to be created on 2.5D CNC machine (possibly with very minor machining afterwards, like a couple drill press holes here and there, especially if you want to countersink holes for a cleaner finish etc)
+-M5 and M8 hardware with hex sockets will be specified, so the rigs can be built with a couple Allen wrenches.
+-Hopefully someone will come along that can convert the parts for 3D printing.
+
+-For any structural component the wood must never be less than approx 10mm/CM (pocketing the 3/4" in half would give you 9mm, which is fine). I'm designing this to be sturdy and robust over light weight, since we're trying to additionally protect expensive fragile equipment.
+
+DXF files of the parts will be provided on the GitHub, and likely Gcode to cut the parts out of 3/4" plywood at a reasonably safe speed and cut depth.
+
+This is all in the VERY early stages, so if you stumbled across this site, give it a month or so to gain some traction! Alex (me!) still has to design/prototype/build the base components, take pictures to get others on board.
+
+If you're excited about this project, you can join the forum - http://www.opencamerarig.com/forum/
+
+Have a great day,
+
+Alex Wilkinson
