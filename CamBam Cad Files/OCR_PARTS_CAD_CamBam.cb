@@ -2,10 +2,10 @@
 <CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="OCR_PARTS_CAD_CamBam">
   <layers>
     <layer name="Joiner_All" color="127,255,0" visible="false">
-      <ModificationCount>44</ModificationCount>
+      <ModificationCount>49</ModificationCount>
       <objects>
         <rect id="552" Closed="true" w="68" h="40">
-          <ModificationCount>56</ModificationCount>
+          <ModificationCount>62</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -15,7 +15,7 @@
           </pts>
         </rect>
         <rect id="553" Closed="true" p="14,14,0" w="40" h="12">
-          <ModificationCount>56</ModificationCount>
+          <ModificationCount>62</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,14,0</p>
@@ -25,44 +25,44 @@
           </pts>
         </rect>
         <circle id="554" c="7,33,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="555" c="7,7,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="556" c="61,33,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="557" c="61,7,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="558" c="21,33,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="559" c="47,33,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="560" c="21,7,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="561" c="47,7,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Joiner_All_Double" color="127,255,0" visible="false">
-      <ModificationCount>27</ModificationCount>
+      <ModificationCount>28</ModificationCount>
       <objects>
         <rect id="133" Closed="true" w="108" h="40">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -72,7 +72,7 @@
           </pts>
         </rect>
         <rect id="134" Closed="true" p="14,14,0" w="80" h="12">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,14,0</p>
@@ -82,140 +82,140 @@
           </pts>
         </rect>
         <circle id="135" c="7,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="136" c="7,7,0" d="5">
-          <ModificationCount>70</ModificationCount>
+          <ModificationCount>76</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="137" c="61,33,0" d="5">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>90</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="138" c="61,7,0" d="5">
-          <ModificationCount>101</ModificationCount>
+          <ModificationCount>107</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="139" c="21,33,0" d="5">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="140" c="47,33,0" d="5">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="141" c="21,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="142" c="47,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="159" c="87,33,0" d="5">
-          <ModificationCount>86</ModificationCount>
+          <ModificationCount>92</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="160" c="87,6.99999999999999,0" d="5">
-          <ModificationCount>86</ModificationCount>
+          <ModificationCount>92</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="170" c="101,33,0" d="5">
-          <ModificationCount>103</ModificationCount>
+          <ModificationCount>109</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="171" c="101,7,0" d="5">
-          <ModificationCount>103</ModificationCount>
+          <ModificationCount>109</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Joiner_All_Triple" color="127,255,0" visible="false">
-      <ModificationCount>20</ModificationCount>
+      <ModificationCount>21</ModificationCount>
       <objects>
         <circle id="190" c="7,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="191" c="7,7,0" d="5">
-          <ModificationCount>70</ModificationCount>
+          <ModificationCount>76</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="192" c="61,33,0" d="5">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>90</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="193" c="61,7,0" d="5">
-          <ModificationCount>101</ModificationCount>
+          <ModificationCount>107</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="194" c="21,33,0" d="5">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="195" c="47,33,0" d="5">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="196" c="21,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="197" c="47,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="204" c="181,33,-1.06540752782547E-14" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="205" c="181,6.99999999999999,-1.06540752782547E-14" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="206" c="127,33,-4.04120096761385E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="207" c="127,7,-4.04120096761385E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="208" c="167,33,-8.93962638290335E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="209" c="141,33,-5.75564986296517E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="210" c="167,6.99999999999999,-8.93962638290335E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="211" c="141,6.99999999999999,-5.75564986296517E-15" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="212" c="101,33,-8.57224447675664E-16" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="213" c="101,6.99999999999999,-8.57224447675664E-16" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="214" c="87,33,8.57224447675664E-16" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="215" c="87,7,8.57224447675664E-16" d="5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="218" Closed="true" p="0,-1.06581410364015E-14,-1.15112997259303E-14" w="188" h="40.000000000000014">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,-1.06581410364015E-14,-1.15112997259303E-14</p>
@@ -225,7 +225,7 @@
           </pts>
         </rect>
         <rect id="219" Closed="true" p="14,14,-9.79685083057902E-15" w="160" h="12.000000000000009">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,14,-9.79685083057902E-15</p>
@@ -237,10 +237,10 @@
       </objects>
     </layer>
     <layer name="Joiner_Horiz" color="127,255,0" visible="false">
-      <ModificationCount>30</ModificationCount>
+      <ModificationCount>33</ModificationCount>
       <objects>
         <rect id="230" Closed="true" p="14,0,0" w="40" h="40">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,0,0</p>
@@ -250,7 +250,7 @@
           </pts>
         </rect>
         <rect id="220" Closed="true" w="68" h="40">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -260,28 +260,28 @@
           </pts>
         </rect>
         <circle id="222" c="7,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="223" c="7,7,0" d="5">
-          <ModificationCount>70</ModificationCount>
+          <ModificationCount>76</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="224" c="61,33,0" d="5">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>90</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="225" c="61,7,0" d="5">
-          <ModificationCount>101</ModificationCount>
+          <ModificationCount>107</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Joiner_Top" color="127,255,0" visible="false">
-      <ModificationCount>17</ModificationCount>
+      <ModificationCount>18</ModificationCount>
       <objects>
         <rect id="252" Closed="true" w="68" h="40">
-          <ModificationCount>58</ModificationCount>
+          <ModificationCount>64</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -291,31 +291,31 @@
           </pts>
         </rect>
         <circle id="253" c="7,33,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="254" c="7,7,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="255" c="61,33,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="256" c="61,7,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="257" c="21,33,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="258" c="47,33,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="259" Closed="true" p="14,0,0" w="40" h="26">
-          <ModificationCount>58</ModificationCount>
+          <ModificationCount>64</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,0,0</p>
@@ -327,10 +327,10 @@
       </objects>
     </layer>
     <layer name="Joiner_Bottom" color="127,255,0" visible="false">
-      <ModificationCount>18</ModificationCount>
+      <ModificationCount>19</ModificationCount>
       <objects>
         <rect id="241" Closed="true" w="68" h="40">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -340,31 +340,31 @@
           </pts>
         </rect>
         <circle id="243" c="7,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="244" c="7,7,0" d="5">
-          <ModificationCount>70</ModificationCount>
+          <ModificationCount>76</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="245" c="61,33,0" d="5">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>90</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="246" c="61,7,0" d="5">
-          <ModificationCount>101</ModificationCount>
+          <ModificationCount>107</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="249" c="21,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="250" c="47,7,0" d="5">
-          <ModificationCount>34</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="260" Closed="true" p="14,14,0" w="40" h="26">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,14,0</p>
@@ -376,10 +376,10 @@
       </objects>
     </layer>
     <layer name="Joiner_Adjustable" color="127,255,0" visible="false">
-      <ModificationCount>36</ModificationCount>
+      <ModificationCount>37</ModificationCount>
       <objects>
         <rect id="724" Closed="true" w="68" h="40">
-          <ModificationCount>108</ModificationCount>
+          <ModificationCount>114</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -389,44 +389,44 @@
           </pts>
         </rect>
         <circle id="767" c="7,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="768" c="7,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="769" c="61,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="770" c="61,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="771" c="21,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="772" c="47,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="775" c="47,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="776" c="21,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Joiner_Adjustable_Double" color="127,255,0" visible="false">
-      <ModificationCount>33</ModificationCount>
+      <ModificationCount>34</ModificationCount>
       <objects>
         <rect id="479" Closed="true" w="108" h="40">
-          <ModificationCount>9</ModificationCount>
+          <ModificationCount>15</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -436,31 +436,31 @@
           </pts>
         </rect>
         <circle id="458" c="7,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="459" c="7,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="460" c="101,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="461" c="101,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="691" c="7,33,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="692" c="7,7,0" d="5">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="730" Closed="true">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.13165249758739578">21,35.5,0</p>
@@ -490,7 +490,7 @@
           </pts>
         </pline>
         <pline id="731" Closed="true">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>27,9.5,0</p>
@@ -522,10 +522,10 @@
       </objects>
     </layer>
     <layer name="Joiner_Adjustable_TripleNEEDSFIX" color="127,255,0" visible="false">
-      <ModificationCount>17</ModificationCount>
+      <ModificationCount>18</ModificationCount>
       <objects>
         <rect id="496" Closed="true" w="188" h="40">
-          <ModificationCount>10</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -535,23 +535,23 @@
           </pts>
         </rect>
         <circle id="497" c="7,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="498" c="7,7,0" d="5">
-          <ModificationCount>70</ModificationCount>
+          <ModificationCount>76</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="504" c="181,33,0" d="5">
-          <ModificationCount>90</ModificationCount>
+          <ModificationCount>96</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="505" c="181,7,0" d="5">
-          <ModificationCount>90</ModificationCount>
+          <ModificationCount>96</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="515" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>41,35.5,0</p>
@@ -568,7 +568,7 @@
           </pts>
         </pline>
         <pline id="516" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>41,4.5,0</p>
@@ -585,7 +585,7 @@
           </pts>
         </pline>
         <pline id="517" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>41,17.5,0</p>
@@ -604,26 +604,26 @@
       </objects>
     </layer>
     <layer name="Corner_Up_Right" color="127,255,0" visible="false">
-      <ModificationCount>29</ModificationCount>
+      <ModificationCount>30</ModificationCount>
       <objects>
         <circle id="64" c="7,33,0" d="5">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="65" c="7,7,0" d="5">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="69" c="47,33,0" d="5">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="83" c="21,33,0" d="5">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="86" Closed="true">
-          <ModificationCount>9</ModificationCount>
+          <ModificationCount>15</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>54,26,0</p>
@@ -643,7 +643,7 @@
           </pts>
         </pline>
         <pline id="90" Closed="true">
-          <ModificationCount>9</ModificationCount>
+          <ModificationCount>15</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>54,12,0</p>
@@ -665,26 +665,26 @@
       </objects>
     </layer>
     <layer name="Corner_Down_Right" color="127,255,0" visible="false">
-      <ModificationCount>24</ModificationCount>
+      <ModificationCount>25</ModificationCount>
       <objects>
         <circle id="103" c="7,7,-4.04120096761385E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="104" c="7,33,-8.57224447675664E-16" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="105" c="47,7,-4.04120096761385E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="106" c="21,7,-4.04120096761385E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="107" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>54,14,-3.18397651993818E-15</p>
@@ -704,7 +704,7 @@
           </pts>
         </pline>
         <pline id="108" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>54,28,-1.46952762458685E-15</p>
@@ -726,26 +726,26 @@
       </objects>
     </layer>
     <layer name="Corner_Up_Left" color="127,255,0" visible="false">
-      <ModificationCount>25</ModificationCount>
+      <ModificationCount>26</ModificationCount>
       <objects>
         <circle id="115" c="47,33,8.57224447675664E-16" d="5">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="116" c="47,7,8.57224447675664E-16" d="5">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="117" c="7.00000000000001,33,5.75564986296517E-15" d="5">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="118" c="33,33,2.57167334302699E-15" d="5">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="119" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,26,6.61287431064084E-15</p>
@@ -765,7 +765,7 @@
           </pts>
         </pline>
         <pline id="120" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>69</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,12,6.61287431064084E-15</p>
@@ -787,26 +787,26 @@
       </objects>
     </layer>
     <layer name="Corner_Down_Left" color="127,255,0" visible="false">
-      <ModificationCount>20</ModificationCount>
+      <ModificationCount>21</ModificationCount>
       <objects>
         <circle id="127" c="47,7,-3.18397651993818E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="128" c="47,33,-9.86076131526265E-32" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="129" c="7.00000000000001,6.99999999999999,1.71444889535133E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="130" c="33,7,-1.46952762458685E-15" d="5">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="131" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,14,3.42889779070266E-15</p>
@@ -826,7 +826,7 @@
           </pts>
         </pline>
         <pline id="132" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>57</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,28,5.14334668605398E-15</p>
@@ -847,19 +847,19 @@
         </pline>
       </objects>
     </layer>
-    <layer name="Linkages" color="127,255,0">
-      <ModificationCount>24</ModificationCount>
+    <layer name="Linkages" color="127,255,0" visible="false">
+      <ModificationCount>26</ModificationCount>
       <objects>
         <circle id="248" c="30,20,0" d="16">
-          <ModificationCount>138</ModificationCount>
+          <ModificationCount>144</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="261" c="30,20,0" d="40">
-          <ModificationCount>131</ModificationCount>
+          <ModificationCount>137</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="262" Closed="true" p="0,22,0" w="18" h="8" radius="1">
-          <ModificationCount>139</ModificationCount>
+          <ModificationCount>145</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>1,22,0</p>
@@ -873,7 +873,7 @@
           </pts>
         </rect>
         <rect id="263" Closed="true" p="0,10,0" w="18" h="8" radius="1">
-          <ModificationCount>139</ModificationCount>
+          <ModificationCount>145</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>1,10,0</p>
@@ -887,7 +887,7 @@
           </pts>
         </rect>
         <rect id="264" Closed="true" p="3,18,0" w="15" h="4">
-          <ModificationCount>131</ModificationCount>
+          <ModificationCount>137</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>3,18,0</p>
@@ -897,7 +897,7 @@
           </pts>
         </rect>
         <rect id="342" Closed="true" p="-18,-18,0" w="36" h="36" radius="1">
-          <ModificationCount>192</ModificationCount>
+          <ModificationCount>198</ModificationCount>
           <mat m="0.707106781186547 -0.707106781186548 0 0 0.707106781186548 0.707106781186547 0 0 0 0 1 0 30 20 0 1" />
           <pts>
             <p>-17,-18,0</p>
@@ -911,7 +911,7 @@
           </pts>
         </rect>
         <rect id="343" Closed="true" p="28,29,0" w="4" h="5" radius="1">
-          <ModificationCount>140</ModificationCount>
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29,29,0</p>
@@ -925,7 +925,7 @@
           </pts>
         </rect>
         <rect id="344" Closed="true" p="16,18,0" w="5" h="4" radius="1">
-          <ModificationCount>140</ModificationCount>
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>17,18,0</p>
@@ -939,7 +939,7 @@
           </pts>
         </rect>
         <rect id="345" Closed="true" p="39,18,0" w="5" h="4" radius="1">
-          <ModificationCount>140</ModificationCount>
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40,18,0</p>
@@ -953,7 +953,7 @@
           </pts>
         </rect>
         <rect id="346" Closed="true" p="-9.5,-9.5,0" w="19" h="19">
-          <ModificationCount>135</ModificationCount>
+          <ModificationCount>141</ModificationCount>
           <mat m="0.707106781186547 -0.707106781186548 0 0 0.707106781186548 0.707106781186547 0 0 0 0 1 0 30 20 0 1" />
           <pts>
             <p>-9.5,-9.5,0</p>
@@ -963,7 +963,7 @@
           </pts>
         </rect>
         <rect id="347" Closed="true" p="28,6,0" w="4" h="5" radius="1">
-          <ModificationCount>140</ModificationCount>
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29,6,0</p>
@@ -977,7 +977,7 @@
           </pts>
         </rect>
         <rect id="267" Closed="true" p="30,0,0" w="28" h="40">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>30,0,0</p>
@@ -987,28 +987,28 @@
           </pts>
         </rect>
         <circle id="268" c="51,33,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="269" c="51,7,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Square_Linkage" color="127,255,0" visible="false">
-      <ModificationCount>37</ModificationCount>
+      <ModificationCount>38</ModificationCount>
       <objects>
         <circle id="296" c="56,33,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="297" c="56,7,0" d="5">
-          <ModificationCount>55</ModificationCount>
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="412" Closed="true" p="49,0,0" w="14" h="40">
-          <ModificationCount>56</ModificationCount>
+          <ModificationCount>62</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>49,0,0</p>
@@ -1018,7 +1018,7 @@
           </pts>
         </rect>
         <pline id="4" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,40,0</p>
@@ -1076,7 +1076,7 @@
           </pts>
         </pline>
         <rect id="7" Closed="true" p="44,0,0" w="5.0000000000000071" h="40">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1088,18 +1088,18 @@
       </objects>
     </layer>
     <layer name="16_mm_rod_linkage" color="127,255,0" visible="false">
-      <ModificationCount>45</ModificationCount>
+      <ModificationCount>46</ModificationCount>
       <objects>
         <circle id="376" c="51,33,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="377" c="51,7,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="415" Closed="true">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1136,7 +1136,7 @@
           </pts>
         </pline>
         <rect id="419" Closed="true" p="44,0,0" w="14" h="40">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1148,18 +1148,18 @@
       </objects>
     </layer>
     <layer name="15_mm_rod_linkage" color="127,255,0" visible="false">
-      <ModificationCount>24</ModificationCount>
+      <ModificationCount>27</ModificationCount>
       <objects>
         <circle id="420" c="51,33,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="421" c="51,7,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="423" Closed="true" p="44,0,0" w="14" h="40">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1169,7 +1169,7 @@
           </pts>
         </rect>
         <pline id="426" Closed="true">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>24.2540333075852,18,0</p>
@@ -1208,18 +1208,18 @@
       </objects>
     </layer>
     <layer name="19_mm_rod_linkage" color="127,255,0" visible="false">
-      <ModificationCount>17</ModificationCount>
+      <ModificationCount>18</ModificationCount>
       <objects>
         <circle id="438" c="51,33,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="439" c="51,7,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="441" Closed="true" p="44,0,0" w="14" h="40">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1229,7 +1229,7 @@
           </pts>
         </rect>
         <pline id="444" Closed="true">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.2118580099897949">22.7129121894966,18,0</p>
@@ -1266,18 +1266,18 @@
       </objects>
     </layer>
     <layer name="half_inch_sched_40_pipe_linkage" color="127,255,0" visible="false">
-      <ModificationCount>13</ModificationCount>
+      <ModificationCount>14</ModificationCount>
       <objects>
         <circle id="447" c="51,33,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="448" c="51,7,0" d="5">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="450" Closed="true" p="44,0,0" w="14" h="40">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44,0,0</p>
@@ -1287,7 +1287,7 @@
           </pts>
         </rect>
         <pline id="453" Closed="true">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>55</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.21800986577057957">21.5211534985954,18,0</p>
@@ -1324,18 +1324,18 @@
       </objects>
     </layer>
     <layer name="Test" color="127,255,0" visible="false">
-      <ModificationCount>24</ModificationCount>
+      <ModificationCount>25</ModificationCount>
       <objects>
         <circle id="602" c="87,33,8.57224447675664E-16" d="5">
-          <ModificationCount>44</ModificationCount>
+          <ModificationCount>50</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="603" c="87,7,8.57224447675664E-16" d="5">
-          <ModificationCount>44</ModificationCount>
+          <ModificationCount>50</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="606" Closed="true">
-          <ModificationCount>44</ModificationCount>
+          <ModificationCount>50</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40,26,6.61287431064084E-15</p>
@@ -1355,7 +1355,7 @@
           </pts>
         </pline>
         <pline id="607" Closed="true">
-          <ModificationCount>44</ModificationCount>
+          <ModificationCount>50</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40,12,6.61287431064084E-15</p>
@@ -1375,31 +1375,31 @@
           </pts>
         </pline>
         <circle id="611" c="73,33,0" d="5">
-          <ModificationCount>42</ModificationCount>
+          <ModificationCount>48</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="612" c="47,33,0" d="5">
-          <ModificationCount>42</ModificationCount>
+          <ModificationCount>48</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="616" c="73,127,8.57224447675664E-16" d="5">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="617" c="47,127,8.57224447675664E-16" d="5">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="618" c="73,167,5.75564986296517E-15" d="5">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="619" c="73,141,2.57167334302699E-15" d="5">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="620" Closed="true">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>66,174,6.61287431064084E-15</p>
@@ -1419,7 +1419,7 @@
           </pts>
         </pline>
         <pline id="621" Closed="true">
-          <ModificationCount>91</ModificationCount>
+          <ModificationCount>97</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>52,174,6.61287431064084E-15</p>
@@ -1439,7 +1439,7 @@
           </pts>
         </pline>
         <rect id="622" Closed="true" p="40,26,0" w="40" h="108">
-          <ModificationCount>76</ModificationCount>
+          <ModificationCount>82</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40,26,0</p>
@@ -1449,23 +1449,23 @@
           </pts>
         </rect>
         <circle id="623" c="47,33,0" d="5">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="624" c="73,33,0" d="5">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="625" c="47,127,0" d="5">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="626" c="73,127,0" d="5">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="627" Closed="true">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>70.5,117,0</p>
@@ -1482,7 +1482,7 @@
           </pts>
         </pline>
         <pline id="628" Closed="true">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44.5,117,0</p>
@@ -1499,7 +1499,7 @@
           </pts>
         </pline>
         <pline id="629" Closed="true">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>79</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>62.5,66,0</p>
@@ -1516,7 +1516,7 @@
           </pts>
         </pline>
         <rect id="630" Closed="true" p="26,65,0" w="68" h="40">
-          <ModificationCount>28</ModificationCount>
+          <ModificationCount>34</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>26,65,0</p>
@@ -1526,23 +1526,23 @@
           </pts>
         </rect>
         <circle id="631" c="33,98,0" d="5">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="632" c="33,72,0" d="5">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="633" c="87,98,0" d="5">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="634" c="87,72,0" d="5">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="635" Closed="true">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>43,82.5,0</p>
@@ -1555,7 +1555,7 @@
           </pts>
         </pline>
         <pline id="636" Closed="true">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>77,74.5,0</p>
@@ -1568,7 +1568,7 @@
           </pts>
         </pline>
         <pline id="637" Closed="true">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.13165249059767739">42.9999999312937,100.5,0</p>
@@ -1581,15 +1581,15 @@
           </pts>
         </pline>
         <circle id="638" c="141,7.00000000000001,0" d="5">
-          <ModificationCount>75</ModificationCount>
+          <ModificationCount>81</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="639" c="141,33,0" d="5">
-          <ModificationCount>75</ModificationCount>
+          <ModificationCount>81</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="640" Closed="true" p="134,7.105427357601E-15,0" w="14" h="40">
-          <ModificationCount>78</ModificationCount>
+          <ModificationCount>84</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>134,7.105427357601E-15,0</p>
@@ -1599,7 +1599,7 @@
           </pts>
         </rect>
         <pline id="641" Closed="true">
-          <ModificationCount>75</ModificationCount>
+          <ModificationCount>81</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>167.745966692415,22,0</p>
@@ -1636,15 +1636,15 @@
           </pts>
         </pline>
         <circle id="642" c="87,72,0" d="5">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="643" c="87,98,0" d="5">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="644" Closed="true" p="80,65,0" w="14" h="40">
-          <ModificationCount>40</ModificationCount>
+          <ModificationCount>46</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>80,65,0</p>
@@ -1654,7 +1654,7 @@
           </pts>
         </rect>
         <pline id="645" Closed="true">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>113.745966692415,87,0</p>
@@ -1691,15 +1691,15 @@
           </pts>
         </pline>
         <circle id="646" c="33,98,0" d="5">
-          <ModificationCount>32</ModificationCount>
+          <ModificationCount>38</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="647" c="33,72,0" d="5">
-          <ModificationCount>32</ModificationCount>
+          <ModificationCount>38</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="648" Closed="true" p="26,65,0" w="14" h="40">
-          <ModificationCount>33</ModificationCount>
+          <ModificationCount>39</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>26,65,0</p>
@@ -1709,7 +1709,7 @@
           </pts>
         </rect>
         <pline id="649" Closed="true">
-          <ModificationCount>32</ModificationCount>
+          <ModificationCount>38</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>6.25403330758519,83,0</p>
@@ -1746,15 +1746,15 @@
           </pts>
         </pline>
         <circle id="650" c="73,141,0" d="5">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="651" c="73,167,0" d="5">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="652" Closed="true">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>121,152,0</p>
@@ -1808,7 +1808,7 @@
           </pts>
         </pline>
         <rect id="653" Closed="true" p="66,134,0" w="14" h="40">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>54</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>66,134,0</p>
@@ -1818,7 +1818,7 @@
           </pts>
         </rect>
         <rect id="654" Closed="true" p="94,0,0" w="40" h="40">
-          <ModificationCount>16</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>94,0,0</p>
@@ -1828,7 +1828,7 @@
           </pts>
         </rect>
         <rect id="655" Closed="true" p="80,0,0" w="68" h="40">
-          <ModificationCount>16</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>80,0,0</p>
@@ -1838,36 +1838,36 @@
           </pts>
         </rect>
         <circle id="656" c="87,33,0" d="5">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="657" c="87,7,0" d="5">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="658" c="141,33,0" d="5">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="659" c="141,7,0" d="5">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
     </layer>
     <layer name="Joiner_45" color="127,255,0" visible="false">
-      <ModificationCount>8</ModificationCount>
+      <ModificationCount>13</ModificationCount>
       <objects>
         <circle id="872" c="7,33,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="873" c="7,7,0" d="5">
-          <ModificationCount>53</ModificationCount>
+          <ModificationCount>59</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="905" Closed="true" p="0,-101,0" w="14" h="100">
-          <ModificationCount>378</ModificationCount>
+          <ModificationCount>384</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,-101,0</p>
@@ -1877,7 +1877,7 @@
           </pts>
         </rect>
         <rect id="906" Closed="true" p="14,-101,0" w="54" h="100">
-          <ModificationCount>378</ModificationCount>
+          <ModificationCount>384</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,-101,0</p>
@@ -1887,23 +1887,23 @@
           </pts>
         </rect>
         <circle id="907" c="7,-38,0" d="5">
-          <ModificationCount>410</ModificationCount>
+          <ModificationCount>416</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="908" c="7,-64,0" d="5">
-          <ModificationCount>410</ModificationCount>
+          <ModificationCount>416</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="910" c="7,-38,0" d="5">
-          <ModificationCount>75</ModificationCount>
+          <ModificationCount>81</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="911" c="7,-64,0" d="5">
-          <ModificationCount>75</ModificationCount>
+          <ModificationCount>81</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="912" Closed="true" p="14,-71,0" w="54" h="40">
-          <ModificationCount>76</ModificationCount>
+          <ModificationCount>82</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,-71,0</p>
@@ -1913,7 +1913,7 @@
           </pts>
         </rect>
         <rect id="913" Closed="true" p="0,-71,0" w="14" h="40">
-          <ModificationCount>76</ModificationCount>
+          <ModificationCount>82</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,-71,0</p>
@@ -1923,7 +1923,7 @@
           </pts>
         </rect>
         <rect id="979" Closed="true" p="14,0,0" w="54" h="40">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14,0,0</p>
@@ -1933,7 +1933,7 @@
           </pts>
         </rect>
         <rect id="980" Closed="true" w="14" h="40">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -1943,7 +1943,7 @@
           </pts>
         </rect>
         <rect id="981" Closed="true" p="0,-101,0" w="14" h="100">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 -7.41778489984129 50.4177848998413 0 1" />
           <pts>
             <p>0,-101,0</p>
@@ -1953,7 +1953,7 @@
           </pts>
         </rect>
         <rect id="982" Closed="true" p="14,-101,0" w="54" h="100">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 -7.41778489984129 50.4177848998413 0 1" />
           <pts>
             <p>14,-101,0</p>
@@ -1963,23 +1963,23 @@
           </pts>
         </rect>
         <circle id="983" c="24.4020202535533,28.4974746830583,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="984" c="42.7867965644036,10.1126983722081,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="985" c="24.4020202535533,28.4974746830583,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="986" c="42.7867965644036,10.1126983722081,0" d="5">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="987" Closed="true" p="14,-71,0" w="54" h="40">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 -7.41778489984129 50.4177848998413 0 1" />
           <pts>
             <p>14,-71,0</p>
@@ -1989,7 +1989,7 @@
           </pts>
         </rect>
         <rect id="988" Closed="true" p="0,-71,0" w="14" h="40">
-          <ModificationCount>52</ModificationCount>
+          <ModificationCount>58</ModificationCount>
           <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 -7.41778489984129 50.4177848998413 0 1" />
           <pts>
             <p>0,-71,0</p>
@@ -2001,18 +2001,18 @@
       </objects>
     </layer>
     <layer name="Joiner_1" color="127,255,0" visible="false">
-      <ModificationCount>11</ModificationCount>
+      <ModificationCount>16</ModificationCount>
       <objects>
         <circle id="1063" c="7,33,0" d="5">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>8</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="1064" c="7,7,0" d="5">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>8</ModificationCount>
           <mat m="Identity" />
         </circle>
         <rect id="1121" Closed="true" w="14" h="40">
-          <ModificationCount>64</ModificationCount>
+          <ModificationCount>70</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -2021,48 +2021,16 @@
             <p>0,40,0</p>
           </pts>
         </rect>
-        <pline id="1123" Closed="true">
-          <ModificationCount>109</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>42.2842712474619,0,0</p>
-            <p>52.1837661840736,9.89949493661166,0</p>
-            <p>23.8994949366117,38.1837661840736,0</p>
-            <p>14,28.2842712474619,0</p>
-          </pts>
-        </pline>
-        <pline id="1155" Closed="true">
-          <ModificationCount>3</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>54,0,0</p>
-            <p>54,7.71572875253811,0</p>
-            <p>54,8.08326112068525,0</p>
-            <p>53.1837661840736,8.89949493661165,0</p>
-            <p>50.1837661840736,11.8994949366117,0</p>
-            <p>25.8994949366117,36.1837661840736,0</p>
-            <p>24.8994949366117,37.1837661840736,0</p>
-            <p>22.0832611206852,40,0</p>
-            <p>21.7157287525381,40,0</p>
-            <p>14,40,0</p>
-            <p>14,32.2842712474619,0</p>
-            <p>14,28.2842712474619,0</p>
-            <p>14,0,0</p>
-            <p>22,0,0</p>
-            <p>42.2842712474619,0,0</p>
-            <p>46.2842712474619,-7.105427357601E-15,0</p>
-          </pts>
-        </pline>
-        <circle id="1157" c="23.9,28.28,0" d="5">
-          <ModificationCount>31</ModificationCount>
+        <circle id="8" c="23.9,28.28,0" d="5">
+          <ModificationCount>96</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="1158" c="42.29,9.9,0" d="5">
-          <ModificationCount>49</ModificationCount>
+        <circle id="9" c="42.29,9.9,0" d="5">
+          <ModificationCount>96</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <rect id="1171" Closed="true" p="11,26.3,0" w="8" h="4" radius="1">
-          <ModificationCount>39</ModificationCount>
+        <rect id="10" Closed="true" p="11,26.3,0" w="8" h="4" radius="1">
+          <ModificationCount>98</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>12,26.3,0</p>
@@ -2075,18 +2043,358 @@
             <p b="0.41421356237309503">11,27.3,0</p>
           </pts>
         </rect>
-        <rect id="1172" Closed="true" p="40.282,-4,0" w="4" h="8" radius="1">
-          <ModificationCount>47</ModificationCount>
+        <pline id="44">
+          <ModificationCount>49</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>41.282,-4,0</p>
-            <p b="0.41421356237309503">43.282,-4,0</p>
-            <p>44.282,-3,0</p>
-            <p b="0.41421356237309503">44.282,3,0</p>
-            <p>43.282,4,0</p>
-            <p b="0.41421356237309503">41.282,4,0</p>
-            <p>40.282,3,0</p>
-            <p b="0.41421356237309503">40.282,-3,0</p>
+            <p>22.0832611206852,40,0</p>
+            <p>52.1837661840736,9.89949493661168,0</p>
+            <p>50.1837661840736,11.8994949366117,0</p>
+            <p>52.1837661840736,9.89949493661166,0</p>
+            <p>42.2842712474619,0,0</p>
+            <p>22,0,0</p>
+            <p>14,0,0</p>
+            <p>14,28.2842712474619,0</p>
+            <p>14,32.2842712474619,0</p>
+            <p>14,40,0</p>
+            <p>21.7157287525381,40,0</p>
+            <p>22.0832611206852,40,0</p>
+            <p>23.8994949366117,38.1837661840735,0</p>
+            <p>24.8994949366116,37.1837661840735,0</p>
+            <p>25.8994949366117,36.1837661840736,0</p>
+            <p>24.8994949366117,37.1837661840736,0</p>
+            <p>23.8994949366117,38.1837661840735,0</p>
+          </pts>
+        </pline>
+        <rect id="59" Closed="true" w="14" h="40">
+          <ModificationCount>184</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 42.2842712474619 0 0 1" />
+          <pts>
+            <p>0,0,0</p>
+            <p>14,0,0</p>
+            <p>14,40,0</p>
+            <p>0,40,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+    <layer name="Mic Holder 1" color="127,255,0">
+      <ModificationCount>8</ModificationCount>
+      <objects>
+        <circle id="3" c="-38,13,0" d="5">
+          <ModificationCount>257</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="5" c="-38,-13,0" d="5">
+          <ModificationCount>257</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="125" c="89,-13,0" d="5">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="126" c="131,0,0" d="70">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="143" c="131,0,0" d="65">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="144" c="131,0,0" d="60">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="145" c="131,0,0" d="55">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <rect id="146" Closed="true" p="-45,-20,0" w="14" h="40">
+          <ModificationCount>423</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-45,-20,0</p>
+            <p>-31,-20,0</p>
+            <p>-31,20,0</p>
+            <p>-45,20,0</p>
+          </pts>
+        </rect>
+        <pline id="148" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>137.334384259186,-21.1888405369952,0</p>
+            <p>142.229135732193,-37.5620354974006,0</p>
+            <p>149.620171992284,-34.5005680384798,0</p>
+            <p>141.503686764878,-19.4618588935014,0</p>
+          </pts>
+        </pline>
+        <pline id="149" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>144.960826192657,-17.1518721795506,0</p>
+            <p>155.748737341529,-30.4055915910216,0</p>
+            <p>161.405591591022,-24.7487373415292,0</p>
+            <p>148.151872179551,-13.9608261926575,0</p>
+          </pts>
+        </pline>
+        <pline id="150" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>150.461858893501,-10.503686764878,0</p>
+            <p>165.50056803848,-18.6201719922837,0</p>
+            <p>168.562035497401,-11.2291357321934,0</p>
+            <p>152.188840536995,-6.334384259186,0</p>
+          </pts>
+        </pline>
+        <pline id="151" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>153,-2.25641025641026,0</p>
+            <p>170,-4.00000000000001,0</p>
+            <p>170,3.99999999999999,0</p>
+            <p>153,2.25641025641025,0</p>
+          </pts>
+        </pline>
+        <pline id="152" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>152.188840536995,6.33438425918599,0</p>
+            <p>168.562035497401,11.2291357321933,0</p>
+            <p>165.50056803848,18.6201719922836,0</p>
+            <p>150.461858893501,10.503686764878,0</p>
+          </pts>
+        </pline>
+        <pline id="153" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>148.151872179551,13.9608261926575,0</p>
+            <p>161.405591591022,24.7487373415292,0</p>
+            <p>155.748737341529,30.4055915910215,0</p>
+            <p>144.960826192657,17.1518721795506,0</p>
+          </pts>
+        </pline>
+        <pline id="154" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>141.503686764878,19.4618588935014,0</p>
+            <p>149.620171992284,34.5005680384798,0</p>
+            <p>142.229135732193,37.5620354974005,0</p>
+            <p>137.334384259186,21.1888405369952,0</p>
+          </pts>
+        </pline>
+        <pline id="155" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>133.25641025641,22,0</p>
+            <p>135,39,0</p>
+            <p>127,39,0</p>
+            <p>128.74358974359,22,0</p>
+          </pts>
+        </pline>
+        <pline id="156" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>124.665615740814,21.1888405369952,0</p>
+            <p>119.770864267807,37.5620354974006,0</p>
+            <p>112.379828007716,34.5005680384798,0</p>
+            <p>120.496313235122,19.4618588935014,0</p>
+          </pts>
+        </pline>
+        <pline id="157" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>117.039173807343,17.1518721795506,0</p>
+            <p>106.251262658471,30.4055915910216,0</p>
+            <p>100.594408408978,24.7487373415292,0</p>
+            <p>113.848127820449,13.9608261926575,0</p>
+          </pts>
+        </pline>
+        <pline id="158" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>111.538141106499,10.503686764878,0</p>
+            <p>96.4994319615202,18.6201719922837,0</p>
+            <p>93.4379645025995,11.2291357321934,0</p>
+            <p>109.811159463005,6.33438425918601,0</p>
+          </pts>
+        </pline>
+        <pline id="161" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>109,2.25641025641027,0</p>
+            <p>92,4.00000000000002,0</p>
+            <p>92,-3.99999999999999,0</p>
+            <p>109,-2.25641025641025,0</p>
+          </pts>
+        </pline>
+        <pline id="162" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>109.811159463005,-6.334384259186,0</p>
+            <p>93.4379645025995,-11.2291357321934,0</p>
+            <p>96.4994319615202,-18.6201719922837,0</p>
+            <p>111.538141106499,-10.503686764878,0</p>
+          </pts>
+        </pline>
+        <pline id="163" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>113.848127820449,-13.9608261926575,0</p>
+            <p>100.594408408978,-24.7487373415291,0</p>
+            <p>106.251262658471,-30.4055915910215,0</p>
+            <p>117.039173807343,-17.1518721795506,0</p>
+          </pts>
+        </pline>
+        <pline id="164" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>120.496313235122,-19.4618588935014,0</p>
+            <p>112.379828007716,-34.5005680384798,0</p>
+            <p>119.770864267807,-37.5620354974005,0</p>
+            <p>124.665615740814,-21.1888405369952,0</p>
+          </pts>
+        </pline>
+        <pline id="165" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>128.74358974359,-22,0</p>
+            <p>127,-39,0</p>
+            <p>135,-39,0</p>
+            <p>133.25641025641,-22,0</p>
+          </pts>
+        </pline>
+        <pline id="166" Closed="true">
+          <ModificationCount>133</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>96,20,0</p>
+            <p b="0.12415927773124719">100.186284955604,16.5986434735719,0</p>
+            <p b="0.12415927773124719">96,0,0</p>
+            <p>100.186284955604,-16.5986434735719,-2.03268042625685E-15</p>
+            <p>96,-20,-2.44921270764476E-15</p>
+            <p>96,0,0</p>
+          </pts>
+        </pline>
+        <circle id="200" d="62">
+          <ModificationCount>10</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="201" d="56">
+          <ModificationCount>11</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="202" d="49">
+          <ModificationCount>15</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="216" d="43">
+          <ModificationCount>11</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <rect id="329" Closed="true" p="-6,-35,0" w="4" h="18">
+          <ModificationCount>150</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>-6,-35,0</p>
+            <p>-2,-35,0</p>
+            <p>-2,-17,0</p>
+            <p>-6,-17,0</p>
+          </pts>
+        </rect>
+        <rect id="330" Closed="true" p="2,-35,0" w="4" h="18">
+          <ModificationCount>147</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>2,-35,0</p>
+            <p>6,-35,0</p>
+            <p>6,-17,0</p>
+            <p>2,-17,0</p>
+          </pts>
+        </rect>
+        <rect id="331" Closed="true" p="-6,17,0" w="4" h="18">
+          <ModificationCount>195</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>-6,17,0</p>
+            <p>-2,17,0</p>
+            <p>-2,35,0</p>
+            <p>-6,35,0</p>
+          </pts>
+        </rect>
+        <rect id="332" Closed="true" p="2,17,0" w="4" h="18">
+          <ModificationCount>193</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>2,17,0</p>
+            <p>6,17,0</p>
+            <p>6,35,0</p>
+            <p>2,35,0</p>
+          </pts>
+        </rect>
+        <rect id="333" Closed="true" p="-35,-6,0" w="18" h="4.0000000000000018">
+          <ModificationCount>161</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>-35,-6,0</p>
+            <p>-17,-6,0</p>
+            <p>-17,-2,0</p>
+            <p>-35,-2,0</p>
+          </pts>
+        </rect>
+        <rect id="334" Closed="true" p="-35,2,0" w="18" h="4.0000000000000009">
+          <ModificationCount>161</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>-35,2,0</p>
+            <p>-17,2,0</p>
+            <p>-17,6,0</p>
+            <p>-35,6,0</p>
+          </pts>
+        </rect>
+        <rect id="335" Closed="true" p="17,-6,0" w="18" h="4.0000000000000009">
+          <ModificationCount>165</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>17,-6,0</p>
+            <p>35,-6,0</p>
+            <p>35,-2,0</p>
+            <p>17,-2,0</p>
+          </pts>
+        </rect>
+        <rect id="336" Closed="true" p="17,2,0" w="18" h="4.0000000000000018">
+          <ModificationCount>165</ModificationCount>
+          <mat m="0.707106781186548 0.707106781186547 0 0 -0.707106781186547 0.707106781186548 0 0 0 0 1 0 0 0 0 1" />
+          <pts>
+            <p>17,2,0</p>
+            <p>35,2,0</p>
+            <p>35,6,0</p>
+            <p>17,6,0</p>
+          </pts>
+        </rect>
+        <rect id="341" Closed="true" p="-31,-20,0" w="6" h="40">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-31,-20,0</p>
+            <p>-25,-20,0</p>
+            <p>-25,20,0</p>
+            <p>-31,20,0</p>
           </pts>
         </rect>
       </objects>
@@ -2100,6 +2408,22 @@
     </Stock>
     <ToolProfile>Unspecified</ToolProfile>
   </MachiningOptions>
-  <parts />
-  <ActiveLayer>Linkages</ActiveLayer>
+  <parts>
+    <part Name="Part1">
+      <machineops />
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolDiameter>3.125</ToolDiameter>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>Mic Holder 1</ActiveLayer>
+  <ActivePart>Part1</ActivePart>
 </CADFile>
